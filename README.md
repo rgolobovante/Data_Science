@@ -18,7 +18,6 @@ de informações em dados brutos e resultados para empresa convertendo em melhor
 
 
 ## Projetos:
-Veja os tutoriais publicados do S:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2
 
