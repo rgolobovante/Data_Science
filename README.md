@@ -6,7 +6,7 @@
 </p>
 
 # Robson Golobovante
-<sub>*Expertise em Data Scientist*</sub>
+<sub>*Expertise em Data Science*</sub>
 
 As experiências em empresas como analista utilizando VBA excel e PowerBI, adiquiri senso crítico, busca
 de informações em dados brutos e resultados para empresa convertendo em melhores tomadas de decisões.
